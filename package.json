@@ -1,0 +1,7 @@
+{
+	"name": "@stroga/pkg",
+	"version": "0.0.1",
+	"description": "Removes all spaces from a string",
+	"license": "MIT",
+	"main": "index.js"
+}
